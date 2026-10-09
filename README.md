@@ -62,15 +62,10 @@ Keep your index fingertip inside the blue box. Outside the box the cursor does n
 ```
 virtual_mouse.py            Main program
 config.py                   All settings
-test_system.py              Checks Python, libraries and webcam
-inspect_mediapipe.py        Shows your MediaPipe version
 requirements.txt            Library versions
 README.md                   This file
-QUICKSTART.txt              Short start guide
 INSTALLATION.md             Step-by-step setup (Windows / VS Code)
-TROUBLESHOOTING.md          Common problems and fixes
 TECHNICAL_DOCUMENTATION.md  How the code works
-CHANGELOG.md                What changed
 ```
 
 ## Settings (config.py)
